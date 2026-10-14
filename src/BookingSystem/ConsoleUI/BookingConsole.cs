@@ -117,6 +117,7 @@ public class BookingConsole(BookingService service)
             Console.WriteLine($"Participants: {booking.Participants}");
         }
     }
+    
 
     private static DateOnly ReadDate(string prompt)
     {
