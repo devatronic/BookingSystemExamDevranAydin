@@ -19,5 +19,5 @@ dotnet run --project src/BookingSystem
 dotnet test
 ```
 
-Read the separate assignment instructions before starting. The existing code
-is incomplete and contains intentional defects.
+## Felsökningsrapport
+Se [DEBUGGING.md](DEBUGGING.md).
